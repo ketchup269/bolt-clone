@@ -1,11 +1,7 @@
 # ⚡ Bolt - Transform Ideas into Websites
 ![image](https://github.com/user-attachments/assets/4bf19b29-3563-4a17-a788-d857c92138c4)
 
-
-
-![Stars](https://img.shields.io/github/stars/PankajKumardev/Bolt-Clone?style=social)
-![Forks](https://img.shields.io/github/forks/PankajKumardev/Bolt-Clone?style=social)
-![Issues](https://img.shields.io/github/issues/PankajKumardev/Bolt-Clone)
+# Link - https://bolt-clone-orcin.vercel.app/ 
 
 ---
 
@@ -69,12 +65,12 @@ It's designed for developers, designers, and entrepreneurs who want to quickly p
 
    - For frontend:
      ```bash
-     cd client
+     cd frontend
      npm install
      ```
    - For backend:
      ```bash
-     cd server
+     cd backend
      npm install
      ```
 
@@ -99,68 +95,3 @@ It's designed for developers, designers, and entrepreneurs who want to quickly p
 
 ---
 
-## 🤝 Contribution Guidelines
-
-### 🌱 How to Get Involved
-
-1. **Fork the repo**
-2. **Clone your fork**
-   ```bash
-   git clone https://github.com/your-username/Bolt-Clone.git
-   ```
-3. **Create a branch**
-   ```bash
-   git checkout -b feature/<your-feature>
-   ```
-4. **Make changes and commit**
-   ```bash
-   git add .
-   git commit -m "feat: added new feature"
-   ```
-5. **Push and raise PR**
-   ```bash
-   git push origin feature/<your-feature>
-   ```
-
-### 📌 Suggestions to Contribute
-
-- Add support for more languages.
-- Improve UX for file switching and previews.
-- Add project saving with local storage or cloud.
-- Build an authentication flow to save past prompts.
-
----
-
-## 🌟 Show Support
-
-If you find Bolt useful, please ⭐ star the repo and share it!
-
-[![Stargazers](https://img.shields.io/github/stars/PankajKumardev/bolt)](https://github.com/PankajKumardev/Bolt-Clone/stargazers)  
-[![Forks](https://img.shields.io/github/forks/PankajKumardev/bolt)](https://github.com/PankajKumardev/Bolt-Clone/network/members)
-
----
-
-## 🛡 License
-
-**Bolt** is released under the MIT License.  
-Use it freely, tweak it wildly, and ship cool stuff!
-
----
-
-## 📖 Changelog
-
-See [`CHANGELOG.md`](https://github.com/PankajKumardev/bolt-Clone/blob/main/CHANGELOG.md) for updates and patch history.
-
----
-
-## 📬 Contact
-
-Have ideas, feedback, or want to collab?
-
-- Email: [pankajams1234@gmail.com](mailto:pankajams1234@gmail.com)
-- LinkedIn: [Pankaj Kumar](https://www.linkedin.com/in/pankajkumardev0/)
-- Twitter: [@pankajkumar_dev](https://x.com/pankajkumar_dev)
-
----
-
-> Made with 💡 using React, Gemini, Express, and pure AI magic ✨
